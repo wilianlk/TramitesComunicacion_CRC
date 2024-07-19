@@ -1,0 +1,6 @@
+@TramitesComunicacion_CRC_HostAddress = http://localhost:5110
+
+GET {{TramitesComunicacion_CRC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
